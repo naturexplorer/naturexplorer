@@ -3,7 +3,7 @@
 Mathematics and Computer Science student at **Imperial College London**, interested in machine learning, data science and mathematical modelling.
 
 ## Currently working on
-- **[transit-lab](LINK)**: comparing classical and ML methods for detecting exoplanet transits in Kepler data
+- **[transit-lab](https://github.com/naturexplorer/transit-lab)**: comparing classical and ML methods for detecting exoplanet transits in Kepler data
 
 ## Tech
 - **Languages:** Python, C++, C, Java, Kotlin, Haskell, SQL.
